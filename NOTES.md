@@ -1345,7 +1345,7 @@ You'll need to:
 
 https://nextjs.org/learn/dashboard-app/adding-authentication
 
-- Email: user@nextmail.com
+- Email: `user@nextmail.com`
 - Password: 123456
 
 ### Authentication vs Authorization
