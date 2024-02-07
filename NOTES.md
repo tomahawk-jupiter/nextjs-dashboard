@@ -1345,6 +1345,9 @@ You'll need to:
 
 https://nextjs.org/learn/dashboard-app/adding-authentication
 
+- Email: user@nextmail.com
+- Password: 123456
+
 ### Authentication vs Authorization
 
 Authentication is about making sure the user is who they say they are, eg. with a username & password.
@@ -1740,6 +1743,8 @@ export const metadata: Metadata = {
 ```
 
 The `%s` in the template will be replaced with the specific page title.
+
+QUESTION: can `title.template` be nested? Eg. to achieve breadcrumb style page names. Or is that too much anyway?
 
 #### Practice: Adding metadata
 
